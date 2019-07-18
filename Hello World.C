@@ -4,6 +4,6 @@
  {
  clrscr();
  printf("hello world");
-  printf("a,b,c")
+  printf("a,c")
  getch();
  }
